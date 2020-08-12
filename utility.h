@@ -16,7 +16,7 @@
 
 typedef enum boolean
 {
-    FALSE = 0,
+    //FALSE = 0,
     TRUE
 } Boolean;
 
